@@ -44,3 +44,13 @@
 .templates .col-md-4{
   margin-bottom:20px;
 }
+.one-image{
+  width:100%;
+}
+.center-back{
+  text-align:center;
+  display:block;
+}
+.specific-template{
+  margin-top:40px;
+}

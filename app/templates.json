@@ -1,0 +1,93 @@
+[
+	{
+		"id": 1,
+		"name":"Blue Template",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"type": "html5",
+		"price": 9.99,
+		"images":
+		[
+			{
+				"name": "blueTemplate.jpg"
+			},
+			{
+				"name": "blueTemplate2.jpg"
+			},
+			{
+				"name": "blueTemplate3.jpg"
+			},
+			{
+				"name": "blueTemplate4.jpg"
+			},
+			{
+				"name": "blueTemplate5.jpg"
+			}
+
+		]
+
+	},
+	{
+		"id": 2,
+		"name":"Green Template",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"type": "html5",
+		"price": 9.99,
+		"images":
+		[
+			{
+				"name": "greenTemplate.jpg"
+			}
+			
+
+		]
+
+	},
+	{
+		"id": 3,
+		"name":"Orange Template",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"type": "html5",
+		"price": 12.95,
+		"images":
+		[
+			{
+				"name": "orangeTemplate.jpg"
+			}
+			
+
+		]
+
+	},
+	{
+		"id": 4,
+		"name":"Gray Template",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"type": "html5",
+		"price": 10.99,
+		"images":
+		[
+			{
+				"name": "grayTemplate.jpg"
+			}
+			
+
+		]
+
+	},
+	{
+		"id": 5,
+		"name":"Purple Template",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"type": "html5",
+		"price": 15.80,
+		"images":
+		[
+			{
+				"name": "purpleTemplate.jpg"
+			}
+			
+
+		]
+
+	}
+]
